@@ -1,0 +1,6 @@
+owner=600620097198882827
+prefix=a
+game=black | aplay
+stayinchannel=true
+songinstatus=false
+token=NjAwOTUyNDYyMDIyNTQxMzE0.XS7ltQ.Dyqj7QF4HiCaEu1wFSPGoOCZ7X0
